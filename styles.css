@@ -45,3 +45,48 @@ a {
 .footer {
     margin-bottom: auto;
 }
+
+.hero {
+    justify-content: space-between;
+    background-color: #1f2937;
+    padding: 200px 100px;
+}
+
+.hero {
+    display: flex;
+    gap: 30px;
+}
+
+.hero-header {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
+.hero-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    border: 0;
+}
+
+.signup {
+    padding: 5px 20px;
+    border-radius: 5px;
+    background-color: #3882f6;
+}
+
+.hero-text {
+    font-size: 18px;
+}
+
+.hero-image {
+    width: 500px;
+    height: 200px;
+    border: 1px solid black;
+    /* box-sizing: border-box; */
+    flex: 1 0 auto;
+}
