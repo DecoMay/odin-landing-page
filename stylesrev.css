@@ -128,3 +128,31 @@ ul {
     font-weight: 1000;
     text-align: end;
 }
+
+.calltoaction {
+    display: flex;
+    justify-content: space-between;
+    background-color: #3882f6;
+    margin: 100px 200px;
+    padding: 50px 100px;
+    border-radius: 10px;
+}
+
+.actionhead {
+    font-weight: bolder;
+}
+
+.actionbox {
+    font-size: 18px;
+    color: white;
+}
+
+.calltoaction .signup {
+    border: 2px solid white;
+    width: 120px;
+    height: 40px;
+}
+
+.footer {
+    
+}
