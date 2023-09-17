@@ -110,3 +110,21 @@ ul {
 .card-text {
     color: #1f2937
 }
+
+.quote {
+    background-color: #e5e7eb;
+    padding: 100px 300px;
+}
+
+.quote-text {
+    font-weight: lighter;
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.quote-source {
+    font-style: normal;
+    font-weight: 1000;
+    text-align: end;
+}
